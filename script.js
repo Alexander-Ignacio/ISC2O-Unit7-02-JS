@@ -10,5 +10,4 @@ function comparison () {
   } else {
     document.getElementById('answer').innerHTML = 'Positive'
   }
-
 }
